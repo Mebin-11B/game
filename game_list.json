@@ -1,0 +1,52 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "gameName": "I'm Not a Robot",
+      "gameURL": "https://neal.fun/not-a-robot/",
+      "publisher": "Neal Agarwal",
+      "publisherLink": "https://neal.fun",
+      "thumbnail": "assets/thumbnails/image.png",
+      "gameplay": "assets/gameplay/1.mp4",
+      "tags": ["puzzle", "interactive", "casual", "brain-teaser"],
+      "description": "Can you prove you're not a robot? A fun interactive puzzle game.",
+      "gamePublished": true
+    },
+    {
+      "id": 2,
+      "gameName": "Neal.Fun Collection",
+      "gameURL": "http://localhost:5173/",
+      "publisher": "Neal Agarwal",
+      "publisherLink": "https://neal.fun",
+      "thumbnail": "assets/thumbnails/image.jpg",
+      "gameplay": "assets/gameplay/2.mp4",
+      "tags": ["collection", "interactive", "educational", "fun"],
+      "description": "A collection of creative and fun interactive experiences.",
+      "gamePublished": false
+    },
+    {
+      "id": 3,
+      "gameName": "Three pandas",
+      "gameURL": "https://www.friv.com/z/games/3pandas/game.html",
+      "publisher": "Friv",
+      "publisherLink": "https://www.friv.com",
+      "thumbnail": "assets/thumbnails/3.jpg",
+      "gameplay": "assets/gameplay/3.mp4",
+      "tags": ["puzzle", "interactive", "casual", "brain-teaser"],
+      "description": "PANDAS!!!",
+      "gamePublished": true
+    },
+    {
+      "id": 4,
+      "gameName": "HUNDRED pandas",
+      "gameURL": "https://www.friv.com/z/games/3pandas/game.html",
+      "publisher": "Friv",
+      "publisherLink": "https://www.friv.com",
+      "thumbnail": "assets/thumbnails/3.jpg",
+      "gameplay": "assets/gameplay/3.mp4",
+      "tags": ["puzzle", "interactive", "casual", "brain-teaser"],
+      "description": "PANDAS!!!",
+      "gamePublished": true
+    }
+  ]
+}
