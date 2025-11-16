@@ -22,7 +22,7 @@
       "gameplay": "assets/gameplay/2.mp4",
       "tags": ["collection", "interactive", "educational", "fun"],
       "description": "A collection of creative and fun interactive experiences.",
-      "gamePublished": false
+      "gamePublished": true
     },
     {
       "id": 3,
